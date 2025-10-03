@@ -161,3 +161,8 @@
 def add():
     return 1
 add()
+
+
+def sub():
+    return 2
+sub()
